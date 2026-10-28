@@ -1,0 +1,3 @@
+Personal Portfolio Website — Project Description
+
+This is a responsive personal portfolio website built using HTML5 and CSS3 only. It introduces me as a computer science student and includes About Me, Education, Skills, Projects, and Contact sections. The design uses semantic HTML, CSS Grid and Flexbox, a consistent colour palette, hover and focus states, and media queries for mobile screens. The projects section highlights a Student Performance Analytics System and this portfolio website. Replace the sample email and GitHub profile link with your own details before submission.
